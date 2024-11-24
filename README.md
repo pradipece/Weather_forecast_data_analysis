@@ -24,3 +24,11 @@ Perform the following steps to prepare the dataset for training:
 4. Impute (fill) missing numeric values
 5. Scale numeric values to the $(0, 1)$ range
 6. Encode categorical columns to one-hot vectors
+
+## Training and Visualizing Decision Trees
+
+A decision tree in general parlance represents a hierarchical series of binary decisions:
+
+<img src="https://i.imgur.com/qSH4lqz.png">
+
+A decision tree in machine learning works in exactly the same way, and except that we let the computer figure out the optimal structure & hierarchy of decisions, instead of coming up with criteria manually.
