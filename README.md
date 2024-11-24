@@ -5,7 +5,7 @@ Using decision trees and random forest algorithms to solve real-world data analy
 
 This project coding-focused approach how to use `decision trees and random forests` to solve a real-world problem from [Kaggle](https://kaggle.com/datasets):
 
-> **QUESTION**: The [Rain in Australia dataset](https://kaggle.com/jsphyg/weather-dataset-rattle-package) contains about 10 years of daily weather observations from numerous Australian weather stations. Here's a small sample from the dataset:
+> **QUESTION**: The [dataset](https://kaggle.com/jsphyg/weather-dataset-rattle-package) contains about 10 years of daily weather observations from numerous Au weather stations. Here's a small sample from the dataset:
 > 
 > ![](https://i.imgur.com/5QNJvir.png)
 >
